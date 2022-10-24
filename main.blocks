@@ -1,0 +1,19 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="Vz;8W#i5I;bQ1k#n70P/" x="0" y="0"></block><block type="device_forever" id="Mat{B/B_Z^}7yKj/qtU-" x="205" y="0"></block><block type="device_button_event" id="Sc^JX*TC}cRjA:UyP6g3" x="414" y="37"><field name="NAME">Button.AB</field><statement name="HANDLER"><block type="device_show_leds" id="q1[8%ww_M)kwUcxkSD{w"><field name="LEDS">`
+        . # . # . 
+        . # . # . 
+        . . . . . 
+        # # # # # 
+        . . . . .
+        `</field><next><block type="playMelody" id="+:w4O^4*QnitHc+%BWb5"><value name="melody"><shadow type="melody_editor" id=".Hs5/ZKR_G1IsJF@kg8u"><field name="melody">"A A A A - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="E/p.:!S]j5*dV|sgV7,B"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">130</field></shadow></value></block></next></block></statement></block><block type="device_button_event" id="GB+E+i?;_%=AEg.nB;CT" x="207" y="167"><field name="NAME">Button.A</field><statement name="HANDLER"><block type="device_show_leds" id="hPTd=v:6zWchoYwU?@/8"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        # . . . # 
+        # . . . # 
+        . # # # .
+        `</field><next><block type="playMelody" id="%)LgLdbM-/~Av1qR#}]R"><value name="melody"><shadow type="melody_editor" id="VdCDH8ju~8NIgh]XH5fX"><field name="melody">"- - G A B C5 - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="fnH~/-cH}/1G{W!d)^CD"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">130</field></shadow></value></block></next></block></statement></block><block type="device_button_event" id="{W19@l#)eE2]$/MP)yX6" x="541" y="240"><field name="NAME">Button.B</field><statement name="HANDLER"><block type="device_show_leds" id="0p2iTy:%tW:z#}fv@/8t"><field name="LEDS">`
+        . # . # . 
+        . . . . . 
+        . # # # . 
+        # . . . # 
+        # . . . #
+        `</field><next><block type="playMelody" id="V?k]h?)sSlP*Pbh5@Q3}"><value name="melody"><shadow type="melody_editor" id="b}ZQc]5pXW$j.azW,:dc"><field name="melody">"- B A G - - - - "</field></shadow></value><value name="tempo"><shadow type="math_number_minmax" id="yFLhNN|0cQVKd8U23lKO"><mutation min="40" max="500" label="Tempo" precision="0"></mutation><field name="SLIDER">130</field></shadow></value></block></next></block></statement></block></xml>
